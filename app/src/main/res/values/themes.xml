@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Wife" parent="Theme.MaterialComponents.Light" />
+</resources>

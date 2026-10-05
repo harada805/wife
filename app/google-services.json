@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930347434212",
+    "project_id": "wife-d4fea",
+    "storage_bucket": "wife-d4fea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930347434212:android:f9355e5cd1a8b2ddabecf1",
+        "android_client_info": {
+          "package_name": "com.example.wife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AQ.Ab8RN6KvVsiPoUMvXbZ-N0pysjPVJ8rbUh8cl8I1fz-tHYlMGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
